@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS auth_user (username VARCHAR(30) PRIMARY KEY, password TEXT);
